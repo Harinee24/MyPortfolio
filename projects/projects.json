@@ -1,0 +1,33 @@
+[
+    {
+      "name": "VR in Healthcare",
+      "desc": "A VR platform for medical students to practice surgeries, visualize 3D organs, and attempt quizzes, guided by an AI avatar. Built using Blender and Unity.",
+      "image": "VR",
+      "category": "basicweb"
+    },
+    {
+      "name": "Disaster Management System",
+      "desc": "A system to detect disasters like fire, gas leaks, earthquakes, and landslides. Alerts are sent via email, SMS, and buzzer notifications, using Arduino and sensors.",
+      "image": "earthquake",
+      "category": "basicweb"
+    },
+    {
+      "name": "Hand-Gestured IoT Controller",
+      "desc": "A system to control IoT devices using hand gestures. Integrated Python and machine learning for gesture recognition and emergency alerts.",
+      "image": "iot",
+      "category": "basicweb"
+    },
+    {
+      "name": "Mind Shield",
+      "desc": "A website focused on emergency preparedness and mental health resources as part of the Infosys Springboard internship. It has SOS Alert, Journal, Chat features in it. Developed using Java.",
+      "image": "mindshield",
+      "category": "basicweb"
+    },
+    {
+      "name": "Cake Zone",
+      "desc": "A visually appealing landing page for a bakery, showcasing products, services, and contact details. Focused on responsive design and user engagement.",
+      "image": "cakezone",
+      "category": "basicweb"
+    }
+  ]
+  
