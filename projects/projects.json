@@ -1,5 +1,17 @@
 [
     {
+      "name": "AlumniSphere",
+      "desc": "A website focused on emergency preparedness and mental health resources as part of the Infosys Springboard internship. It has SOS Alert, Journal, Chat features in it. Developed using Java.",
+      "image": "mindshield",
+      "category": "basicweb"
+    },
+    {
+      "name": "ShieldMe",
+      "desc": "A website focused on emergency preparedness and mental health resources as part of the Infosys Springboard internship. It has SOS Alert, Journal, Chat features in it. Developed using Java.",
+      "image": "mindshield",
+      "category": "basicweb"
+    },
+    {
       "name": "VR in Healthcare",
       "desc": "A VR platform for medical students to practice surgeries, visualize 3D organs, and attempt quizzes, guided by an AI avatar. Built using Blender and Unity.",
       "image": "VR",
@@ -15,12 +27,6 @@
       "name": "Hand-Gestured IoT Controller",
       "desc": "A system to control IoT devices using hand gestures. Integrated Python and machine learning for gesture recognition and emergency alerts.",
       "image": "iot",
-      "category": "basicweb"
-    },
-    {
-      "name": "ShieldMe",
-      "desc": "A website focused on emergency preparedness and mental health resources as part of the Infosys Springboard internship. It has SOS Alert, Journal, Chat features in it. Developed using Java.",
-      "image": "mindshield",
       "category": "basicweb"
     },
     {
