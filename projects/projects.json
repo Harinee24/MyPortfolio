@@ -1,31 +1,31 @@
 [
     {
       "name": "AlumniSphere",
-      "desc": "A website focused on emergency preparedness and mental health resources as part of the Infosys Springboard internship. It has SOS Alert, Journal, Chat features in it. Developed using Java.",
-      "image": "mindshield",
+      "desc": "A platform where alumni and students can connect with AI-powered job recommendations, AI-discussion forum, Alumni directory, Newsletter, Fundraising, Event management and so on. It strengthens Alumni-student connection. ",
+      "image": "alumnisphere",
       "category": "basicweb"
     },
     {
       "name": "ShieldMe",
-      "desc": "A website focused on emergency preparedness and mental health resources as part of the Infosys Springboard internship. It has SOS Alert, Journal, Chat features in it. Developed using Java.",
+      "desc": "A website focused on emergency preparedness and to preserve the mental health of the user as part of the Infosys Springboard internship. It has SOS Alert, Journal, Chat features in it. Developed using Java.",
       "image": "mindshield",
       "category": "basicweb"
     },
     {
       "name": "VR in Healthcare",
-      "desc": "A VR platform for medical students to practice surgeries, visualize 3D organs, and attempt quizzes, guided by an AI avatar. Built using Blender and Unity.",
+      "desc": "A VR platform designed with 3D models of human organ to enhance Human Anatomy learning of medical students and an environment for them to practice MCQ with an AI Avatar . Built using Blender and Unity software.",
       "image": "VR",
       "category": "basicweb"
     },
     {
       "name": "Disaster Management System",
-      "desc": "A system to detect disasters like fire, gas leaks, earthquakes, and landslides. Alerts are sent via email, SMS, and buzzer notifications, using Arduino and sensors.",
+      "desc": "A system to detect disasters like fire, gas leaks, earthquakes, and landslides. Alerts are sent via email, SMS, and buzzer notifications to alert the user, built using Arduino and various sensors with a clean UI.",
       "image": "earthquake",
       "category": "basicweb"
     },
     {
       "name": "Hand-Gestured IoT Controller",
-      "desc": "A system to control IoT devices using hand gestures. Integrated Python and machine learning for gesture recognition and emergency alerts.",
+      "desc": "A system to control IoT devices using hand gestures of the users. Integrated with Python and machine learning libraries for gesture recognition and to send emergency alerts in case of danger.",
       "image": "iot",
       "category": "basicweb"
     },
